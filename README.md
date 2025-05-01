@@ -5,6 +5,8 @@ A real-time face recognition system that automatically marks attendance using we
 <img width="479" alt="Image" src="https://github.com/user-attachments/assets/99bc77e8-1669-4b66-9655-cf9795a11bf8" />
 
 <img width="546" alt="Image" src="https://github.com/user-attachments/assets/c05c037c-6b59-4065-b65a-dc856eb3a82e" />
+
+
 ## Features
 
 - Real-time face detection and recognition
