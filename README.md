@@ -2,9 +2,7 @@
 
 A real-time face recognition system that automatically marks attendance using webcam. The system detects faces, matches them against known faces, and maintains attendance records in an Excel file.
 
-![Face Detection Screenshot](sample_face_recognition/Screenshot 2025-04-25 123440.png)
-![Face Detection Screenshot](sample_face_recognition/Screenshot 2025-04-25 123629.png)
-
+https://github.com/RAHUL04012006/Face_recognition/issues/1#issue-3033279804
 ## Features
 
 - Real-time face detection and recognition
